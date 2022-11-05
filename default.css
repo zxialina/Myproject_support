@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #F8F8F8 url(images/overlay.png) repeat;
+	/*background: #F8F8F8 url(images/overlay.png) repeat;*/
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	font-weight: 400;
@@ -48,9 +48,7 @@ a img {
 	border: none;
 }
 
-/*********************************************************************************/
-/* Image Style                                                                   */
-/*********************************************************************************/
+
 
 	.image
 	{
@@ -94,7 +92,7 @@ hr {
 	display: none;
 }
 
-/** WRAPPER */
+
 
 #wrapper {
 	background: #FFF;
@@ -110,7 +108,7 @@ hr {
 	clear: both;
 }
 
-/** HEADER */
+
 
 #header-wrapper
 {
@@ -131,7 +129,7 @@ hr {
 	right: 0;
 }
 
-/** LOGO */
+
 
 #logo {
 	position: absolute;
@@ -170,7 +168,7 @@ hr {
 	color: #000;
 }
 
-/** MENU */
+
 
 #menu {
 	overflow: hidden;
@@ -213,7 +211,7 @@ hr {
 	border-right: none;
 }
 
-/** PAGE */
+
 
 #page {
 	overflow: hidden;
@@ -244,7 +242,7 @@ hr {
 		color: rgba(0,0,0,0.7);
 	}
 
-/** CONTENT */
+
 
 #content {
 	float: left;
@@ -272,7 +270,7 @@ hr {
 	border-bottom: 1px solid #E6E7DC;
 }
 
-/** SIDEBAR 1 */
+
 
 #sidebar1 {
 	float: right;
@@ -291,14 +289,14 @@ hr {
 	font-weight: 400;
 }
 
-/** SIDEBAR 2 */
+
 
 #sidebar2 {
 	float: right;
 	width: 250px;
 }
 
-/* Footer */
+
 
 #footer {
 	overflow: hidden;
@@ -314,7 +312,7 @@ hr {
 		color: rgba(0,0,0,0.7);
 }
 
-/* List style 1 */
+
 
 ul.style1 {
 	margin: 0px;
@@ -332,7 +330,7 @@ ul.style1 .first {
 	border-top: none;
 }
 
-/* List style 2 */
+
 
 ul.style2 {
 	margin: 0px;
@@ -368,7 +366,7 @@ ul.style2 a:hover {
 }
 
 
-/* List style 3 */
+
 
 ul.style3 {
 	margin: 0px;
@@ -415,9 +413,7 @@ ul.style3 .first {
 }
 
 
-/*********************************************************************************/
-/* Portfolio                                                                     */
-/*********************************************************************************/
+
 
 	#portfolio-wrapper
 	{
@@ -485,9 +481,7 @@ ul.style3 .first {
 		float: right;
 	}
 
-/*********************************************************************************/
-/* Heading Titles                                                                */
-/*********************************************************************************/
+
 
 	.title
 	{
@@ -512,9 +506,7 @@ ul.style3 .first {
 		color: #6F6F6F;
 	}
 
-/*********************************************************************************/
-/* Button Style                                                                  */
-/*********************************************************************************/
+
 
 	.button
 	{
@@ -531,9 +523,7 @@ ul.style3 .first {
 		color: #FFF;
 	}
 	
-/*********************************************************************************/
-/* Social Icon Styles                                                            */
-/*********************************************************************************/
+
 
 	ul.contact
 	{
